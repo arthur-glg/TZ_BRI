@@ -1,0 +1,1 @@
+**Lu, J., Schönweger, O., 2019. Great expectations: Chinese investment in Laos and the myth of empty land. Territory, Politics, Governance 7, 61–78. [https://doi.org/10.1080/21622671.2017.1360195](https://doi.org/10.1080/21622671.2017.1360195)**
