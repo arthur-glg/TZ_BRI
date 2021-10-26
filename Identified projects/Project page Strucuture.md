@@ -4,13 +4,16 @@
 🗓️Delivery date :
 💸Investor : 
 🤝Transaction party : 
+🦣 Mother compagny :
 🔗Some internet links : 
 
-✏️Short description : 
+##### ✏️Short description : 
 
-🔵Identifying road map : 
+##### 🔵Identifying road map : 
 
-🖥️Smart cities: 
+##### 🖥️Smart cities/Urban technology deployed: 
+
+##### 🔻Limits, question for it :
 
 ___
 
