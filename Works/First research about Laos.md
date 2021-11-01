@@ -1,3 +1,6 @@
+___
+#work_notes
+___
 # First research about Laos 
 ## Introduction 
 *First research around [[LAOS.pdf]] document (summary by Ms Henriot)*
@@ -23,7 +26,7 @@ Really not cleat -> https://ppi.worldbank.org/en/snapshots/project/sinohydro-nam
 
 
 
-🟢*I tried this other line* -> Spoiler it's about the [[Hongsa_Power_Plant]]
+🟢*I tried this other line* -> Spoiler it's about the [[Hongsa Power Plant]]
  2010 | June | China National Machinery Industry (Sinomach) | $ 1 600 |Banpu Power and Ratchaburi Electricity | Energy | Coal | Laos | East Asia
  On this annual report of 2010 from Banpu [[Annual-Report-2010_En_154207.pdf]], I found this interesting line : "Other important strategic steps in 2010 included securing USD 2.7 billion in project finance for the Hongsa coal-power project in Laos". I think 1.6 billions from Sinomach are a part of the 2.7 billion. 
  LETS GO I GOT IT ! On the news website of the sinomach : http://www.cneec.com.cn/english/NewsCenter/CNEECNews/201512/t20151223_79487.html 

@@ -1,25 +1,28 @@
+___
+#work_notes
+___
 # Research for Laos presentation
 
 *Research about Transport, Realestate and Tourism in Laos. First preparation for the incoming metting with the research group*
 ___
 - [[#Transport|Transport]]
-	- [[#🟢 China railway engeneering ->  Boten–Vientiane railway!|🟢 China railway engeneering ->  Boten–Vientiane railway!]]
+	- [[#🟢 [[China-Laos Railway]]|🟢 [[China-Laos Railway]]]]
 		- [[#2015|2015]]
 		- [[#2016|2016]]
 		- [[#2018|2018]]
-	- [[#🟢 Laos-China Highway Project|🟢 Laos-China Highway Project]]
+	- [[#🟢 [[Laos-China Highway]]|🟢 [[Laos-China Highway]]]]
 - [[#Real estate|Real estate]]
-	- [[#🟢 Luang Lake Specific Economic Zone|🟢 Luang Lake Specific Economic Zone]]
-	- [[#🟢 Vientiane Saysettha Development Zone Project|🟢 Vientiane Saysettha Development Zone Project]]
-	- [[#🟢 Hin Huep cement plant|🟢 Hin Huep cement plant]]
-	- [[#🟢 Jixiang cement factory|🟢 Jixiang cement factory]]
+	- [[#🟢 [[Luang Lake Specific Economic Zone]]|🟢 [[Luang Lake Specific Economic Zone]]]]
+	- [[#🟢 [[Vientiane Saysettha Development Zone]]|🟢 [[Vientiane Saysettha Development Zone]]]]
+	- [[#🟢 [[Hin Huep cement plant]]|🟢 [[Hin Huep cement plant]]]]
+	- [[#🟢 [[Jixiang cement factory]]|🟢 [[Jixiang cement factory]]]]
 - [[#Tourism|Tourism]]
-	- [[#🟢 Luang Prabang International Airport|🟢 Luang Prabang International Airport]]
+	- [[#🟢 [[Luang Prabang International Airport]]|🟢 [[Luang Prabang International Airport]]]]
 ___
 
 ## Transport 
-### 🟢 China railway engeneering ->  Boten–Vientiane railway!
-[[image-11.png]]
+### 🟢 [[China-Laos Railway]]
+
 🐐 This article is a master class -> https://thepeoplesmap.net/project/laos-china-railway
 👤 [Wanjing (Kelly) Chen](https://scholar.google.com/citations?user=4FVJZ-UAAAAJ&hl=en)
 🦤 [@MostFamousKelly](https://twitter.com/mostfamouskelly?lang=fr)
@@ -54,12 +57,12 @@ No annual report available for 2016
 #### 2018 
 | Year | Month   | Contractor                | Quantity in million |
 | ---- | ------- | ------------------------- | ------------------- |
-| 2016 | October | China Railway Engineering | $ 4170              |
+| 2018 | October | China Railway Engineering | $ 4170              |
 
 In [[China railway 2018 Annual Report.pdf]] : *". At the same time, the Group is one of the major infrastructure construction forces in the construction of the Belt and Road Initiative. It is the main contractor of the representative projects in the Belt and Road Initiative including China-Laos Railway"* 
 ![[image-15.png]]
 
-### 🟢 [[Laos-China_Highway_Project]]
+### 🟢 [[Laos-China Highway]]
 | Year | Month | Contractor          | Quantity in million |
 | ---- | ----- | ------------------- | ------------------- |
 | 2018 | April | Yunnan Construction | $ 1230              |
@@ -71,7 +74,7 @@ In [[China railway 2018 Annual Report.pdf]] : *". At the same time, the Group is
 ![[Laos-Map_01.jpg]]
 
 ## Real estate
-### 🟢 Luang Lake Specific Economic Zone
+### 🟢 [[Luang Lake Specific Economic Zone]]
 | Year | Month   | Contractor       | Quantity in million |
 | ---- | ------- | ---------------- | ------------------- |
 | 2012 | January | Shanghai Wanfeng | $ 520               |
@@ -83,8 +86,9 @@ In [[China railway 2018 Annual Report.pdf]] : *". At the same time, the Group is
 - https://www.youtube.com/watch?v=6nbEv7-L6hQ
 - http://asiaweekly.com/turning-point/
 - http://en.whwanfeng.com/columns_detail/columnsId=96&FrontColumns_navigation01-1537597592576FirstColumnId=96.html
+- https://rentsbuy.com/2020/12/over-us100m-spent-on-that-luang-marsh-project-vientiane/
 
-### 🟢 Vientiane Saysettha Development Zone Project
+### 🟢 [[Vientiane Saysettha Development Zone]]
 ![[1557384156917.png]]
 
 | Year | Month    | Contractor          | Quantity in million |
@@ -96,8 +100,9 @@ In [[China railway 2018 Annual Report.pdf]] : *". At the same time, the Group is
 - https://www.youtube.com/watch?v=P9pwapswiME
 - http://www.lvsdz.com/list/zllhtzenglishPc/9/669/auto/20/0.html
 - http://www.xinhuanet.com/english/2019-03/08/c_137878116.htm
+- http://en.yoic.cn/m/1865.html
 
-### 🟢 Hin Huep cement plant
+### 🟢 [[Hin Huep cement plant]]
 | Year | Month | Contractor | Quantity in million |
 | ---- | ----- | ---------- | ------------------- |
 | 2017 | July  | Hongshi    | $ 219               |
@@ -111,7 +116,7 @@ In [[China railway 2018 Annual Report.pdf]] : *". At the same time, the Group is
 - https://www.cemnet.com/global-cement-report/facility/hin-huep
 - https://en.imsilkroad.com/p/84242.html 
 
-### 🟢 Jixiang cement factory
+### 🟢 [[Jixiang cement factory]]
 | Year | Month    | Contractor               | Quantity in million |
 | ---- | -------- | ------------------------ | ------------------- |
 | 2015 | December | Yunnan Energy Investment | $ 120               |
@@ -123,7 +128,7 @@ In [[China railway 2018 Annual Report.pdf]] : *". At the same time, the Group is
 - https://www.worldcement.com/asia-pacific-rim/04122015/china-invested-cement-plant-inaugurated-laos-121/
 
 ## Tourism 
-### 🟢 Luang Prabang International Airport
+### 🟢 [[Luang Prabang International Airport]]
 | Year | Month   | Contractor | Quantity in million |
 | ---- | ------- | ---------- | ------------------- |
 | 2012 | October | Sinomach   | $ 100               |
