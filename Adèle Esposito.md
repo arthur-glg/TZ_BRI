@@ -1,2 +1,0 @@
-Lien vers son CV : https://cv.archives-ouvertes.fr/adele-esposito
-[[La fabrique  urbaine et territoriale du champ patrimonial en Asie du Sud-Est.  Lectures croisées à travers les projets, les mots et les acteurs.pdf]]

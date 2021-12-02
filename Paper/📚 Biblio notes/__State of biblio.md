@@ -1,0 +1,13 @@
+- [x] (Apostolopoulou 2021) A novel geographical research agenda on Silk Road urbanisation
+- [x] (Urban, 2013) An analysis of China’s investment in the hydropower sector in the Greater Mekong Sub-Region
+- [x] (Dicarlo, 2017) Belt and Road Infrastructures: Modernist Dreams, Local Dilemmas?
+- [x] (Benazeraf, 2019) Chinese Companies Energy Activities in Emerging Asia
+- [x] (Chen, 2021) Disabled Localisation: Financial Entanglements and Labour Politics along the Belt and Road in Laos
+- [x] (Lu, 2019) Great expectations: Chinese investment in Laos and the myth of empty land
+- [x] (Li, 2021) Land-Use Change and Efficiency in Laos’ Special Economic Zones
+- [x] (Chen & Dicarlo, 2021) Laos–China Railway - The People's Map of Global China
+- [x] (Dicarlo, 2020) Mind the Gap: Grounding Development Finance and Safeguards through Land Compensation on the Laos-China Belt and Road Corridor
+- [x] (Silk Road, Wikipedia) Silk Road article, Wikipedia 
+- [x] (Otmakhova, 2018) The Belt & Road Initiative through the Lens of Urbanism
+- [x] (McBride, 2015) Building the new silk Road 
+- [x] (Chen, 2020) The Power of Mirage: State, Capital, and Politics in the Grounding of ‘Belt and Road’ in Laos
