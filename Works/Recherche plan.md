@@ -21,11 +21,13 @@ ___
 
 [[(Silk Road, Wikipedia)]]*to get an historical overview of the old Silk Road*
 What was the silk road -> [[(McBride, 2015)]]
-- [ ] Par où cette RdS passait (carte ?)
-- [ ] Comment et dans quel but a elle été crée ? 
-- [ ] Des raisons politiques, incluant "l'etat" chinois de l'époque ? 
+- [x] Par où cette RdS passait (carte ?)
+- [x] Comment et dans quel but a elle été crée ? 
+- [x] Des raisons politiques, incluant "l'etat" chinois de l'époque ? 
 
 Le lien entre ces deux parties est le changement de philosophie entre les deux RdS. La RdS fabriquait de nouvelles aires urbaines sur son passage, la BRI fabrique de nouvelles aires urbaines pour son devellopement. [[(Otmakhova, 2018)]] *Comparaison entre l'ancienne et la nouvelle route de la soie* 
+
+En 2013, le président chinois 
 
 ### Political birth of the BRI
 <mark style="color: green">Pourquoi créé t'on la BRI ?</mark>
