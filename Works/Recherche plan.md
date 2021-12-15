@@ -25,9 +25,13 @@ What was the silk road -> [[(McBride, 2015)]]
 - [x] Comment et dans quel but a elle été crée ? 
 - [x] Des raisons politiques, incluant "l'etat" chinois de l'époque ? 
 
+En 2013, le président chinois [[(McBride, 2015)]]
+Conséquence de la crise de 2008 [[(Apostolopoulou, 2021)]]
+*Ne pas aller plus loin, on précise dans la partie suivante*
+
 Le lien entre ces deux parties est le changement de philosophie entre les deux RdS. La RdS fabriquait de nouvelles aires urbaines sur son passage, la BRI fabrique de nouvelles aires urbaines pour son devellopement. [[(Otmakhova, 2018)]] *Comparaison entre l'ancienne et la nouvelle route de la soie* 
 
-En 2013, le président chinois 
+
 
 ### Political birth of the BRI
 <mark style="color: green">Pourquoi créé t'on la BRI ?</mark>
