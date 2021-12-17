@@ -11,3 +11,5 @@
 - [x] (Otmakhova, 2018) The Belt & Road Initiative through the Lens of Urbanism
 - [x] (McBride, 2015) Building the new silk Road 
 - [x] (Chen, 2020) The Power of Mirage: State, Capital, and Politics in the Grounding of ‘Belt and Road’ in Laos
+- [x] (Narins, 2020) Missing from the Map: Chinese Exceptionalism, Sovereignty Regimes and the Belt Road Initiative
+- [ ] (Sharma, 2019)The Politics of Soft Power, Belt and Road Initiative (BRI) as Charm Influence in South Asia

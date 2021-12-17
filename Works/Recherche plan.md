@@ -36,11 +36,15 @@ Le lien entre ces deux parties est le changement de philosophie entre les deux R
 ### Political birth of the BRI
 <mark style="color: green">Pourquoi créé t'on la BRI ?</mark>
 <mark style="color: green">Quelle est la philosophie de cette nouvelle route ?</mark>
--> [[(McBride, 2015)]]
-Il est possible de lier l'histoire du nom des projets avec [[(Apostolopoulou, 2021)]]
-> Cette partie parle plus de la création de la BRI globalement, one ne rentre pas encore dans le détail de l'asie du SUD-EST et du LAOS
 
-- [ ] Double carte ancienne/Nouvelle route 
+- Promoted as a win-win collaboration between China and the countries involved -> Name of the speech "Promote People-to-People friendship and create better future"
+- As we know, there is no official road map for the BRI,[[(Narins, 2020)]] and beggining of research onerning qualitative approach analysis for the BRI construction [[(Apostolopoulou, 2021)]][[(Urban, 2013)]]
+- Impossible de ne pas prendre en considération l'envie du gouvernement chinois de prende une position encore plus forte sur le contient eurasien. -> SOFTPOWER [[(Sharma, 2019)]]
+
+
+> Cette partie parle plus du pourquoi de la BRI globalement, one ne rentre pas encore dans le détail de l'asie du SUD-EST et du LAOS
+
+- [x] Double carte ancienne/Nouvelle route 
 
 ### Defining the Belt and Road Initiative and its stakes in South-East Asia
 > Je vois cette partie comme un zoom. Nous connaissons la philosophie et les grandes lignes de la BRI à l'internationnal. Maintenant nous nous concentrons sur l'Asie du sud-est et à ce que cela implique pour le Laos
