@@ -46,10 +46,11 @@ Le lien entre ces deux parties est le changement de philosophie entre les deux R
 
 - [x] Double carte ancienne/Nouvelle route 
 
-### Defining the Belt and Road Initiative and its stakes in South-East Asia
+### The Belt and Road Initiative and its stakes in South-East Asia
 > Je vois cette partie comme un zoom. Nous connaissons la philosophie et les grandes lignes de la BRI à l'internationnal. Maintenant nous nous concentrons sur l'Asie du sud-est et à ce que cela implique pour le Laos
 
 #### The global plan in South-East Asia
+
 
 #### Global economic implications in Laos region 
 <mark style="color: green">Qu'implique sa création ? Qu'est-ce qui va changer après sa création ? Pour la Chine mais aussi pour les pays que traverse la route.</mark>
