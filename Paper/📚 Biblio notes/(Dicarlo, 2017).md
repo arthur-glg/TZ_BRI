@@ -1,2 +1,3 @@
 #biblio_note 
 # Belt and Road Infrastructures: Modernist Dreams, Local Dilemmas?
+- Un paysage qui change et qui se betonnise, avec des questionnements concernant les impacts éologiques : exemple l'exploitation et la construction dans des parcs nationaux initiallement protégés. Des speculations concernant l'emploie des station hydroélectrique pour aliment des mines = contraire au dev durable. Ces insta hydroelec modifie grandement les écosystemes des rivières 

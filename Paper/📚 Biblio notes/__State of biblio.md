@@ -12,4 +12,8 @@
 - [x] (McBride, 2015) Building the new silk Road 
 - [x] (Chen, 2020) The Power of Mirage: State, Capital, and Politics in the Grounding of ‘Belt and Road’ in Laos
 - [x] (Narins, 2020) Missing from the Map: Chinese Exceptionalism, Sovereignty Regimes and the Belt Road Initiative
-- [ ] (Sharma, 2019)The Politics of Soft Power, Belt and Road Initiative (BRI) as Charm Influence in South Asia
+- [x] (Sharma, 2019)The Politics of Soft Power, Belt and Road Initiative (BRI) as Charm Influence in South Asia
+- [x] (Rana, 2020) China’s Belt and Road Initiative: Impacts on Asia and Policy Agenda
+- [x] (Stuart-Fox, 2009) LAOS: The Chinese Connection
+- [x] (Mottet, 2018) Le Laos va-t-il (peut-il) basculer définitivement dans la sphère géopolitique et géoéconomique chinoise ?
+- [ ] 

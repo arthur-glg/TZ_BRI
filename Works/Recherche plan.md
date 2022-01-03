@@ -50,10 +50,17 @@ Le lien entre ces deux parties est le changement de philosophie entre les deux R
 > Je vois cette partie comme un zoom. Nous connaissons la philosophie et les grandes lignes de la BRI à l'internationnal. Maintenant nous nous concentrons sur l'Asie du sud-est et à ce que cela implique pour le Laos
 
 #### The global plan in South-East Asia
+[[(Mottet, 2018)]]
+[[(Rana, 2020)]]
 
-
-#### Global economic implications in Laos region 
+#### Implications in Laos region 
 <mark style="color: green">Qu'implique sa création ? Qu'est-ce qui va changer après sa création ? Pour la Chine mais aussi pour les pays que traverse la route.</mark>
+
+Rapide présentation avec [[(Chen, 2020)]], [[(Mottet, 2018)]] et [[(Lu, 2019)]]
+*Transition avec la partie de Lu*
+Les changements politiques et économiques [[(Mottet, 2018)]]
+*Transition jsp*
+Les changements environnementaux et sociaux [[(Chen, 2020)]],[[(Dicarlo, 2017)]],[[(Dicarlo, 2020)]]
 
 
 
@@ -64,6 +71,3 @@ Le lien entre ces deux parties est le changement de philosophie entre les deux R
 ### SEZ & Urbanism 
 ### Energy 
 
-## Opening on the real, false win/win 
-- Political concerns 
-- Environemental concerns
