@@ -16,4 +16,6 @@
 - [x] (Rana, 2020) China’s Belt and Road Initiative: Impacts on Asia and Policy Agenda
 - [x] (Stuart-Fox, 2009) LAOS: The Chinese Connection
 - [x] (Mottet, 2018) Le Laos va-t-il (peut-il) basculer définitivement dans la sphère géopolitique et géoéconomique chinoise ?
-- [ ] 
+- [ ] (Barnet, 2021) Credit crunch: Chinese infrastructure lending and Lao sovereign debt
+- [x] (Demetriadi, 2020) Onboard China’s Belt and Road Express: Does Laos stand to benefit?
+- [ ] (Hart, 2021) Can China’s Belt and Road Open Up Landlocked Laos?

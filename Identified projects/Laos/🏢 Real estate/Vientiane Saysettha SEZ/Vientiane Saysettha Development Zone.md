@@ -3,7 +3,7 @@ ___
 ___
 # Template page for Project page
 🏢Type of project : industry, residential, comercial 
-🗺️Location : Vientiane
+🗺️Location : 18.011411338411108, 102.74315292863996
 🗓️Delivery date : 2030
 💸Investor : Yunnan Construction (December 2015, $100 million)
 🤝Transaction party : Saysettha Development Zone

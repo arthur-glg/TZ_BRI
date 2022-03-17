@@ -3,7 +3,7 @@ ___
 ___
 # Hin Huep cement plant
 🏢Type of project : Factory
-🗺️Location : Hin Huep
+🗺️Location : 18.63936170073783, 102.33158353775886
 🗓️Delivery date : 2017
 💸Investor : Hongshi
 🤝Transaction party : none

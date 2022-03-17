@@ -3,7 +3,7 @@ ___
 ___
 # Jixiang cement factory
 🏢Type of project : Factory
-🗺️Location : Ban Lao-Nakham (Khammouane)
+🗺️Location : Ban Lao-Nakham (Khammouane) 17.454790, 104.993343
 🗓️Delivery date : December 2015
 💸Investor : Yunnan Energy Investment ($120 million, December 2015)
 🤝Transaction party : none

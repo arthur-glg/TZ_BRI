@@ -13,7 +13,6 @@ ___
 - https://www.hobomaps.com/NamNgum5Dam.html
 
 ## Electricite du Laos Transmission Company Limited
-c
 - http://www.xinhuanet.com/english/asiapacific/2021-10/12/c_1310238224.htm
 - https://www.vientianetimes.org.la/freeContent/FreeConten_EDL172.php
 - https://thediplomat.com/2021/03/laos-grants-25-year-power-grid-concession-to-chinese-majority-firm/

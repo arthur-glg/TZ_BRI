@@ -38,8 +38,6 @@ http://hobomaps.com/NamNgum4Dam.html
 2017 March Yunnan Energy Investment $ 160
 http://hobomaps.com/XeLanongDamsInfo.html
 
-## Phong Sub Thavy 
-https://uk.news.yahoo.com/brief-china-national-complete-plant-signs-hydropower-station-090610106--sector.html
 
 ## La-Nge River Hydropower Station
 https://www.zawya.com/mena/en/project/221118013022/laos-60mw-h-la-nge-river-hydropower-station-project/
@@ -47,3 +45,7 @@ https://www.chinadaily.com.cn/business/2017-02/18/content_28250902.htm
 
 ## Saysettha oil refinery 
 https://www.chinadaily.com.cn/business/2017-08/03/content_30345084.htm
+https://www.hydrocarbons-technology.com/projects/laopec-oil-refinery-vientiane/
+https://www.ogj.com/refining-processing/refining/operations/article/14188970/laos-commissions-first-oil-refinery
+
+
